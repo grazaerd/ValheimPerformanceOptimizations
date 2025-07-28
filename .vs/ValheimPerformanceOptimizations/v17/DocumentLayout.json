@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|c:\\users\\admin\\desktop\\valheimperformanceoptimizations\\valheimperformanceoptimizations\\patches\\minimapgenerationpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\patches\\minimapgenerationpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\valheimperformanceoptimizations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\valheimperformanceoptimizations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\assetbundlehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\assetbundlehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\storage\\setpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\storage\\setpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\storage\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\storage\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\storage\\boundsoctreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\storage\\boundsoctreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\storage\\boundsoctree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\storage\\boundsoctree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\extensions\\numberx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\extensions\\numberx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\extensions\\listx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\extensions\\listx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\extensions\\collectionx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\extensions\\collectionx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\valheimperformanceoptimizations\\utils\\extensions\\boundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F8A00-7A5E-460D-80ED-F48DF0221D8C}|ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.csproj|solutionrelative:valheimperformanceoptimizations\\utils\\extensions\\boundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetBundleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\AssetBundleHelper.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\AssetBundleHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\AssetBundleHelper.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\AssetBundleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:56.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SetPool.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\SetPool.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Storage\\SetPool.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\SetPool.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Storage\\SetPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Storage\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\ObjectPool.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Storage\\ObjectPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:51.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoundsOctreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctreeNode.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctreeNode.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctreeNode.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:50.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoundsOctree.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctree.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctree.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctree.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Storage\\BoundsOctree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValheimPerformanceOptimizations.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:13:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimapGenerationPatch.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Patches\\MinimapGenerationPatch.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Patches\\MinimapGenerationPatch.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Patches\\MinimapGenerationPatch.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Patches\\MinimapGenerationPatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:39:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumberX.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\NumberX.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Extensions\\NumberX.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\NumberX.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Extensions\\NumberX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:44.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListX.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\ListX.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Extensions\\ListX.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\ListX.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Extensions\\ListX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:43.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectionX.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\CollectionX.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Extensions\\CollectionX.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\CollectionX.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Extensions\\CollectionX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoundsX.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\BoundsX.cs",
+              "RelativeDocumentMoniker": "ValheimPerformanceOptimizations\\Utils\\Extensions\\BoundsX.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ValheimPerformanceOptimizations\\ValheimPerformanceOptimizations\\Utils\\Extensions\\BoundsX.cs",
+              "RelativeToolTip": "ValheimPerformanceOptimizations\\Utils\\Extensions\\BoundsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:40.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

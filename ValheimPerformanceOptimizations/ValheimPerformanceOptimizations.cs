@@ -11,7 +11,6 @@ namespace ValheimPerformanceOptimizations
 	using VPO = ValheimPerformanceOptimizations;
 
 	[BepInDependency(ValheimRaftId, BepInDependency.DependencyFlags.SoftDependency)]
-	[BepInDependency(JotunnId, BepInDependency.DependencyFlags.SoftDependency)]
 	[BepInPlugin(PluginId, "Valheim Performance Optimizations", PluginVersion)]
 	public class ValheimPerformanceOptimizations : BaseUnityPlugin
 	{
@@ -57,8 +56,6 @@ namespace ValheimPerformanceOptimizations
 					RuntimeHelpers.RunClassConstructor(type.TypeHandle);
 				}
 			});
-
-			ModCompatibility.Initialize();
 			OnInitialized?.Invoke(Config, _harmony);
 		}
 
